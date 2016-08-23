@@ -1,0 +1,6 @@
+show (p=>(~p=>q))
+assume p
+show (~p=>q)
+assume ~p
+co (~p=>q)
+ic 3 (p=>(~p=>q))

@@ -1,0 +1,4 @@
+show(a|(b=>c)=>(b|~c))
+assume (a|(b=>c)
+daniel a|(b=>c)=>(b=>c)
+angela ((b=>c)=>(b|~c))

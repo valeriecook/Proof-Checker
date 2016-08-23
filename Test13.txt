@@ -1,0 +1,3 @@
+show (~a=>(a|b))=>~a)
+valerie      (~a|~(a|b))
+yangzi ((~a|~(a|b))=>~a)

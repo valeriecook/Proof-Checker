@@ -1,0 +1,3 @@
+show (q=>q)
+assume q
+ic 2 (q=>q)

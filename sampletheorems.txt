@@ -1,0 +1,7 @@
+jennifer (a=>(a|b))
+valerie (~(a&b)=>(~a|~b))
+angela ((a=>b)=>(a|~b))
+yangzi ((a|b)=>a)
+daniel ((a|b)=>b)
+
+

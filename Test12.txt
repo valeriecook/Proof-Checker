@@ -1,0 +1,5 @@
+show (p=>p)
+show (p=>p)
+assume p
+ic 2.1 (p=>p)
+repeat 2 (p=>p)
